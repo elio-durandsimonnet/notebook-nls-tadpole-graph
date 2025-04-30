@@ -4,5 +4,5 @@ This repository contains the Jupyter notebook used to perform the numerical comp
 
 # Grafidi library
 
-You can have access to the Grafidi library here:
+This code uses the Grafidi library in order to perform computations on metric graphs. You can have access to the Grafidi library here:
 https://plmlab.math.cnrs.fr/cbesse/grafidi

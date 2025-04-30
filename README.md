@@ -10,7 +10,7 @@ This notebook uses the Grafidi library in order to perform computations on metri
 - The first chunk provides all libraries necessary for the code, including the Grafidi library.
 - The second chunk provides the functions used in the gradient descent algorithm, see (5.1) in the paper.
 - The third chunk provides the parameters omega, gamma and Length (which is a list) used for the simulations in Figures 7 and 8. You may change those parameters in order to try other simulations, as the one in Figure 9. Other parameters, as the stop criterion of the gradient descent algorithm, are provided.
-- The fourth chunk computes the ground state of the cubic nonlinear Schrödinger (associated witg the parameter \texttt{omega}) solution of the tadpole graph with a Delta-vertex condition (associated with the parameter gamma) for the lengths stacked in the list Length.
+- The fourth chunk computes the ground state of the cubic nonlinear Schrödinger (associated witg the parameter `omega`) solution of the tadpole graph with a Delta-vertex condition (associated with the parameter `gamma`) for the lengths stacked in the list `Length`.
 - The fifth and the sixth chunk 
 
 
